@@ -1,0 +1,80 @@
+[
+  {
+    "formLabel": "Type",
+    "placeholder": "",
+    "formName": "human_type",
+    "isRequired": true,
+    "type": "selectbox",
+    "options": [
+      {
+        "title": "Mr",
+        "value": "mr"
+      },
+      {
+        "title": "Mrs",
+        "value": "mrs"
+      }
+    ]
+  },
+  {
+    "formLabel": "Full name",
+    "placeholder": "Please enter your name",
+    "formName": "full_name",
+    "isRequired": true,
+    "type": "input",
+    "options": []
+  },
+  {
+    "formLabel": "",
+    "placeholder": "",
+    "formName": "card",
+    "isRequired": true,
+    "type": "radio",
+    "options": [
+      {
+        "title": "NRC",
+        "value": "nrc"
+      },
+      {
+        "title": "Old NRC",
+        "value": "old_nrc"
+      },
+      {
+        "title": "Passport",
+        "value": "passport"
+      }
+    ]
+  },
+  {
+    "formLabel": "",
+    "placeholder": "State",
+    "formName": "state",
+    "isRequired": true,
+    "type": "input",
+    "options": []
+  },
+  {
+    "formLabel": "",
+    "placeholder": "Township",
+    "formName": "township",
+    "isRequired": true,
+    "type": "input",
+    "options": []
+  },
+  {
+    "formLabel": "",
+    "placeholder": "Type",
+    "formName": "type",
+    "isRequired": true,
+    "type": "input",
+    "options": []
+  },
+  {
+    "formLabel": "",
+    "placeholder": "Number",
+    "formName": "number",
+    "isRequired": true,
+    "type": "input",
+    "options": []
+  }
+]

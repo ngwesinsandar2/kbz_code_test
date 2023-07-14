@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "step": "First",
+    "step_title": "Personal Information",
+    "path_name": "/"
+  },
+  {
+    "id": 2,
+    "step": "Second",
+    "step_title": "Contact Information",
+    "path_name": "/step2_contact_infos"
+  },
+  {
+    "id": 3,
+    "step": "Third",
+    "step_title": "Mailing Information",
+    "path_name": "/step3_mailing_infos"
+  }
+]

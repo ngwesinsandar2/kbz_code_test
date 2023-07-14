@@ -1,0 +1,28 @@
+[
+  {
+    "formLabel": "Mobile Number",
+    "placeholder": "Please enter your phone number",
+    "formName": "mobile_number",
+    "isRequired": true,
+    "type": "input",
+    "option": []
+  },
+  {
+    "formLabel": "Email Address",
+    "placeholder": "Please enter your e-mail",
+    "formName": "email",
+    "isRequired": true,
+    "type": "email",
+    "option": []
+  },
+  {
+    "formName": "Submit",
+    "placeholder": "",
+    "isRequired": false,
+    "type": "submit",
+    "value": "",
+    "isAction": false,
+    "isHidden": false,
+    "options": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "formLabel": "State/District",
+    "placeholder": "Please enter your state",
+    "formName": "state",
+    "isRequired": true,
+    "type": "selectbox",
+    "options": []
+  },
+  {
+    "formLabel": "Township",
+    "placeholder": "Please enter your township",
+    "formName": "township",
+    "isRequired": true,
+    "type": "selectbox",
+    "options": []
+  },
+  {
+    "formLabel": "Address",
+    "placeholder": "Please enter your current address",
+    "formName": "address",
+    "isRequired": true,
+    "type": "textarea",
+    "options": []
+  },
+  {
+    "formName": "Submit",
+    "placeholder": "",
+    "isRequired": false,
+    "type": "submit",
+    "value": "",
+    "isAction": false,
+    "isHidden": false,
+    "options": []
+  }
+]
